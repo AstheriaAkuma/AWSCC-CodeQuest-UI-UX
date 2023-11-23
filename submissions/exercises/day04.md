@@ -1,4 +1,4 @@
-![image](https://github.com/AstheriaAkuma/AWSCC-CodeQuest-UI-UX/assets/116161772/d938c2b3-363d-4c12-9062-1cf163f09f8e)## Hello there, my fellow Alfbuddy! 💖
+## Hello there, my fellow Alfbuddy! 💖
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
